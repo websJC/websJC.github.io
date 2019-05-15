@@ -1,6 +1,6 @@
 {
-  "short_name": "El Tiempo",
-  "name": "El Tiempo by WebsJC",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ff6600",
+  "theme_color": "#000000",
   "background_color": "#ffffff"
 }
