@@ -1,5 +1,6 @@
 body {
 background: #041221;
+height: 100%;
 }
 .card {overflow:hidden}
 .card.large {
